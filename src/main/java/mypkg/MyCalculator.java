@@ -18,7 +18,7 @@ public class MyCalculator {
 	}
 	public void display()
 	{
-		System.out.println("Hello GFG B14");
+		System.out.println("Hello GFG B14!");
 	}
 	public static void main(String[] args) {	
 		MyCalculator calc = new MyCalculator();
