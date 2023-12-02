@@ -16,6 +16,10 @@ public class MyCalculator {
 	{
 		return a/b;
 	}
+	public void display()
+	{
+		System.out.println("Hello GFG B14");
+	}
 	public static void main(String[] args) {	
 		MyCalculator calc = new MyCalculator();
 		System.out.println("Sum is :"+calc.sum(20, 10));
