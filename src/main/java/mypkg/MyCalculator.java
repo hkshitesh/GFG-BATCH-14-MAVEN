@@ -20,6 +20,10 @@ public class MyCalculator {
 	{
 		System.out.println("Hello GFG B14!");
 	}
+	public void greeting()
+	{
+		System.out.println("Hello from GitHub");
+	}
 	public static void main(String[] args) {	
 		MyCalculator calc = new MyCalculator();
 		System.out.println("Sum is :"+calc.sum(20, 10));
