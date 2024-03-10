@@ -20,6 +20,10 @@ public class MyCalculator {
 	{
 		System.out.println("Hello GFG B14!");
 	}
+	public void alert()
+	{
+		System.out.println("Alert for any update");
+	}
 	public void greeting()
 	{
 		System.out.println("Hello from GitHub");
